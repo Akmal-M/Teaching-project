@@ -1,0 +1,56 @@
+.sidebar {
+    grid-area: sidebar;
+    background: #867bfb;
+
+    padding: 1em;
+    font-size: 30px;
+}
+.sidebar > nav ul {
+    display: flex;
+    justify-content: center;
+    margin: auto 0;
+}
+
+.sidebar > nav li {
+    list-style: none;
+margin: 20px;
+}
+
+.sidebar > nav a {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+@media (max-width: 650px) {
+    .sidebar {
+        font-size: 20px;
+        height: 7vh;
+    }
+}
+
+@media (min-width: 1040px) {
+    .sidebar {
+        background: linear-gradient(#867bfb, #b0a7ff, #ffffff);
+        /*background: #867bfb;*/
+        font-size: 35px;
+    }
+    .sidebar > nav ul {
+        margin: 40px 0;
+    }
+
+    .sidebar > nav li {
+        list-style: none;
+        margin: auto ;
+        padding: 20px;
+    }
+
+    .sidebar > nav a {
+        text-decoration: none;
+        margin: 50px auto;
+        color: white;
+        cursor: pointer;
+        font-size: 40px;
+    }
+}
