@@ -14,9 +14,11 @@
 }
 
 
-.footer__social > img {
+.footer__socialIco > img {
     width: 40px;
     margin: 25px;
+    cursor: pointer;
+
 }
 
 .developer {
@@ -27,8 +29,13 @@
     color: #fff;
 }
 
+.footer__social {
+    display: flex;
+    margin: auto;
+}
+
 @media (max-width: 650px) {
-    .footer__social > img {
+    .footer__socialIco > img {
         margin: 0 12px;
         font-size: 19px;
     }

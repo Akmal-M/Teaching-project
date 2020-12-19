@@ -5,6 +5,7 @@ import Main from "./Components/Main/Main";
 import Footer from "./Components/Footer/Footer";
 import Testimonials from "./Components/Testimonials/Testimonials";
 import SliderPhoto from "./Components/SliderPhoto/SliderPhoto";
+import Favourite from "./Components/Favourite/Favourite";
 
 function App() {
     return (
@@ -14,6 +15,7 @@ function App() {
                 <Main/>
             </div>
             <SliderPhoto/>
+            <Favourite/>
             <Testimonials/>
             <Footer/>
 

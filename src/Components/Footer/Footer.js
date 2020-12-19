@@ -18,9 +18,26 @@ const Footer = () => {
                     <br/> +99 891 313 92 11
                 </div>
                 <div className='footer__social'>
-                        <img src={telegram} alt="telegram"/>
-                        <img src={instagram} alt="instagram"/>
-                        <img src={facebook} alt="facebook"/>
+                    <p>
+                        <a href="https://t.me/amazingrepetitor" className='footer__socialIco'>
+                        <img alt="telegram" src={telegram} />
+                    </a>
+                    </p>
+
+                    <p>
+                        <a href="https://instagram.com" className='footer__socialIco'>
+
+                            <img  alt="instagram"  src={instagram} />
+                        </a>
+                    </p>
+
+                    <p>
+                        <a href="https://facebook.com " className='footer__socialIco'>
+                            <img alt="facebook" src={facebook} />
+                        </a>
+                    </p>
+
+
                 </div>
             </div>
             <div className='developer'>
