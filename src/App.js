@@ -10,7 +10,7 @@ import Favourite from "./Components/Favourite/Favourite";
 function App() {
     return (
         <>
-            <div className="container">
+            <div className="container__app">
                 <Header/>
                 <Main/>
             </div>
