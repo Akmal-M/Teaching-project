@@ -11,27 +11,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47f867d0-5527-4a66-b4ca-101ed2ca551e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/img/slidertwo/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/slidertwo/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/slidertwo/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/slidertwo/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/slidertwo/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/slidertwo/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/slidertwo/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/slidertwo/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/slidertwo/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/slidertwo/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/test/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/test/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/test/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/test/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/test/5.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Favourite/Favourite.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Favourite/Favourite.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Favourite/Favourtite.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Favourite/Favourtite.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/SliderPhoto/SliderPhoto.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/SliderPhoto/SliderPhoto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Testimonials/Testimonial/Testimonial.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Testimonials/Testimonial/Testimonial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Testimonials/Testimonials.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Testimonials/Testimonials.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Testimonials/Testimonials.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Testimonials/Testimonials.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slider/board-3700116_1280~01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slider/books-3826148_1280~01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slider/colored-pencils-4031668_1280~01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slider/distance-learning-5735149_1280~01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slider/i-am-a-student-1412778_1280~01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slider/kids-1093758_1280~01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slider/learn-2706897_1280~01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slider/pencil-1037609_1280~01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slider/pencils-4966995_1280~01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slider/read-1564105_1920~01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slider/school-2761394_1280~01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slider/timetable-3222250_1280~01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/test/person.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,6 +125,10 @@
       <workItem from="1608419449468" duration="1767000" />
       <workItem from="1608421322563" duration="1773000" />
       <workItem from="1608423134869" duration="303000" />
+      <workItem from="1608423447411" duration="386000" />
+      <workItem from="1608428164296" duration="526000" />
+      <workItem from="1608428718322" duration="1778000" />
+      <workItem from="1608430536749" duration="282000" />
     </task>
     <servers />
   </component>

@@ -33,6 +33,11 @@
     margin: auto;
 }
 
+.footer__tel > a {
+    text-decoration: none;
+    color: #fff;
+}
+
 @media (max-width: 650px) {
     .footer__socialIco > img {
         margin: 0 12px;

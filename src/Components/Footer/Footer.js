@@ -15,7 +15,7 @@ const Footer = () => {
                 </div>
                 <div className='footer__tel'>
                     Telefon:
-                    <br/> +99 891 313 92 11
+                    <br/><a href="tel:+998913139211">+99 891 313 92 11</a>
                 </div>
                 <div className='footer__social'>
                     <p>
@@ -25,14 +25,14 @@ const Footer = () => {
                     </p>
 
                     <p>
-                        <a href="https://instagram.com" className='footer__socialIco'>
+                        <a href="https://instagram.com/russkii140" className='footer__socialIco'>
 
                             <img  alt="instagram"  src={instagram} />
                         </a>
                     </p>
 
                     <p>
-                        <a href="https://facebook.com " className='footer__socialIco'>
+                        <a href="https://facebook.com/profile.php?id=100059904920338 " className='footer__socialIco'>
                             <img alt="facebook" src={facebook} />
                         </a>
                     </p>
