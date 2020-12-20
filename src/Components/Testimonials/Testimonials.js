@@ -1,6 +1,4 @@
 import React from 'react';
-import { Swiper, SwiperSlide } from 'swiper/react';
-import SwiperCore, { Autoplay } from 'swiper';
 
 import Testimonial from "./Testimonial/Testimonial";
 import './Testimonials.css';

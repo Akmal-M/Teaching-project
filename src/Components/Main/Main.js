@@ -10,11 +10,13 @@ const Main = () => {
                     <div className='hero-content'>
                         <h2>RUS TILI <br/>
                         Repetitor</h2>
-                        <p> Я работала с более ста учениками. Среди моих учеников есть
-                            одаренные, средные, и тупые конечено, как ваши дети например.
-                            Если надоела мучатся с ними дай репетитору своего шалопая и
-                            он станет нормальним ребенком.
-                            Я очень люблю свою работу и детей, особенно тупых детей
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                            Consequatur enim illum itaque iure modi, molestiae nulla numquam
+                            obcaecati placeat quas, ratione repellendus saepe sequi velit veniam.
+                            A assumenda autem consectetur distinctio dolor dolorem exercitationem
+                            facere impedit minima obcaecati perferendis praesentium,
+                            provident quia quo quos repudiandae vitae. Alias in modi rem.
                         </p>
                         <a className='action-btn'>Murojaat</a>
                     </div>
