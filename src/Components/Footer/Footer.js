@@ -19,20 +19,21 @@ const Footer = () => {
                 </div>
                 <div className='footer__social'>
                     <p>
-                        <a href="https://t.me/amazingrepetitor" className='footer__socialIco'>
+                        <a href="https://t.me/amazingrepetitor" target="_blank" className='footer__socialIco'>
                         <img alt="telegram" src={telegram} />
                     </a>
                     </p>
 
                     <p>
-                        <a href="https://instagram.com/russkii140" className='footer__socialIco'>
+                        <a href="https://instagram.com/russkii140" target="_blank" className='footer__socialIco'>
 
                             <img  alt="instagram"  src={instagram} />
                         </a>
                     </p>
 
                     <p>
-                        <a href="https://facebook.com/profile.php?id=100059904920338 " className='footer__socialIco'>
+                       
+                        <a href="https://facebook.com/profile.php?id=100059904920338 " target="_blank" className='footer__socialIco'>
                             <img alt="facebook" src={facebook} />
                         </a>
                     </p>

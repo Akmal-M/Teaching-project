@@ -7,7 +7,7 @@ const Header = () => {
     return (
         <div className='sidebar'>
             <Link to="/online">Online</Link>
-            <Link to="/chat">Chat</Link>
+            <a href='https://t.me/joinchat/MTUE8xndl7pJ8XLGnJnEMg' target="_blank">Chat</a>
             <Link to="/testimonial">Fikrlar</Link>
             <Link to="/contact">Manzil</Link>
         </div>

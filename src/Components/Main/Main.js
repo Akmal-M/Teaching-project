@@ -15,7 +15,6 @@ const Main = () => {
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                             Consequatur enim illum itaque iure modi, molestiae nulla numquam
                             obcaecati placeat quas, ratione repellendus saepe sequi velit veniam.
-                            A assumenda autem consectetur distinctio dolor dolorem exercitationem
                         </p>
                         <a className='action-btn'>Murojaat</a>
 
