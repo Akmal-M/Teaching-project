@@ -11,32 +11,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47f867d0-5527-4a66-b4ca-101ed2ca551e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/img/test/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/test/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/test/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/test/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/test/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Testimonials/Testimonial/Testimonial.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Testimonials/Testimonial/Testimonial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Testimonials/Testimonial/Testimonial.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Testimonials/Testimonial/Testimonial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Main/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/Main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/SliderPhoto/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/SliderPhoto/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Testimonials/Testimonials.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Testimonials/Testimonials.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Testimonials/Testimonials.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Testimonials/Testimonials.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/slider/board-3700116_1280~01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/slider/books-3826148_1280~01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/slider/colored-pencils-4031668_1280~01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/slider/distance-learning-5735149_1280~01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/slider/i-am-a-student-1412778_1280~01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/slider/kids-1093758_1280~01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/slider/learn-2706897_1280~01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/slider/pencil-1037609_1280~01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/slider/pencils-4966995_1280~01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/slider/read-1564105_1920~01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/slider/school-2761394_1280~01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/slider/timetable-3222250_1280~01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/test/person.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,24 +54,27 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/BestPupils" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Testimonials/Testimonial" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\My PC\Desktop\mother\src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\My PC\Desktop\mother\src\Components\Testimonials\Testimonial" />
       <recent name="C:\Users\My PC\Desktop\mother\src\Components\BestPupils" />
       <recent name="C:\Users\My PC\Desktop\mother\src\img\icons" />
       <recent name="C:\Users\My PC\Desktop\mother\src\Components\SliderPhoto" />
-      <recent name="C:\Users\My PC\Desktop\mother\src\Components\Testimonials\Testimonial" />
       <recent name="C:\Users\My PC\Desktop\mother\src\Components\Testimonials" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\My PC\Desktop\mother\src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -129,6 +127,20 @@
       <workItem from="1608428164296" duration="526000" />
       <workItem from="1608428718322" duration="1778000" />
       <workItem from="1608430536749" duration="282000" />
+      <workItem from="1608464119969" duration="1769000" />
+      <workItem from="1608487823172" duration="1084000" />
+      <workItem from="1608490983208" duration="7000" />
+      <workItem from="1608518710878" duration="1732000" />
+      <workItem from="1608520491518" duration="1768000" />
+      <workItem from="1608522307647" duration="1149000" />
+      <workItem from="1608545800420" duration="1093000" />
+      <workItem from="1608547408015" duration="116000" />
+      <workItem from="1608548190784" duration="1619000" />
+      <workItem from="1608549850758" duration="323000" />
+      <workItem from="1608552430140" duration="1157000" />
+      <workItem from="1608553621262" duration="1784000" />
+      <workItem from="1608555463031" duration="1773000" />
+      <workItem from="1608557269444" duration="993000" />
     </task>
     <servers />
   </component>
@@ -151,6 +163,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="473" y="363" key="#ESLint" timestamp="1608519233937">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="473" y="363" key="#ESLint/0.0.1280.984@0.0.1280.984" timestamp="1608519233937" />
+    <state x="311" y="274" key="#Notifications" timestamp="1608547461113">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="311" y="274" key="#Notifications/0.0.1280.984@0.0.1280.984" timestamp="1608547461113" />
     <state x="16" y="35" key="SettingsEditor" timestamp="1608279003977">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -166,6 +186,11 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/App.js</url>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/Components/Testimonials/Testimonial/Testimonial.js</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

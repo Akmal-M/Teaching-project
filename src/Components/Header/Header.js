@@ -6,14 +6,10 @@ import {Link} from "react-router-dom";
 const Header = () => {
     return (
         <div className='sidebar'>
-            <nav>
-                <ul>
-                    <li><Link to="/online">Online</Link></li>
-                    <li><Link to="/chat">Chat</Link></li>
-                    <li><Link to="/testimonial">Fikrlar</Link></li>
-                    <li><Link to="/contact">Manzil</Link></li>
-                </ul>
-            </nav>
+            <Link to="/online">Online</Link>
+            <Link to="/chat">Chat</Link>
+            <Link to="/testimonial">Fikrlar</Link>
+            <Link to="/contact">Manzil</Link>
         </div>
     )
 }

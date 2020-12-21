@@ -18,7 +18,6 @@ function App() {
             <Favourite/>
             <Testimonials/>
             <Footer/>
-
         </>
     );
 }
