@@ -10,14 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47f867d0-5527-4a66-b4ca-101ed2ca551e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Favourite/Favourtite.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Favourite/Favourtite.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Main/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/Main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Testimonials/Testimonial/Testimonial.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Testimonials/Testimonial/Testimonial.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Testimonials/Testimonials.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Testimonials/Testimonials.css" afterDir="false" />
-    </list>
+    <list default="true" id="47f867d0-5527-4a66-b4ca-101ed2ca551e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +119,7 @@
       <workItem from="1608553621262" duration="1784000" />
       <workItem from="1608555463031" duration="1773000" />
       <workItem from="1608557269444" duration="1777000" />
-      <workItem from="1608559082624" duration="320000" />
+      <workItem from="1608559082624" duration="1001000" />
     </task>
     <servers />
   </component>
