@@ -19,13 +19,13 @@
 .hero h2 {
     font-size: 3em;
     font-weight: bold;
-    color: #657386;
+    color: gray;
 }
 
 .hero p {
     font-weight: 500;
     line-height: 1.8em;
-    color: #98a0ad;
+    color: gray;
     font-size: 20px;
 }
 
@@ -43,7 +43,7 @@
 }
 
 .action-btn:hover {
-    background: #67c261;
+    background: #b8cb53;
 }
 
 @media (min-width: 1040px) {
