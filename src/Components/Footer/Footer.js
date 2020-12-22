@@ -7,7 +7,7 @@ import telegram from '../../img/assets/21399810441555589926-128.png';
 const Footer = () => {
     return (
         <>
-            <div className='footer'>
+            <div className='footer' id='contact'>
                 <div className='footer__address'>
                     <h4>Samarqand viloyati,
                         <br/> Kattaqo'rg'on tum.

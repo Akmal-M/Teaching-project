@@ -8,6 +8,10 @@ import SliderPhoto from "./Components/SliderPhoto/SliderPhoto";
 import Favourite from "./Components/Favourite/Favourite";
 
 function App() {
+
+
+
+
     return (
         <>
             <div className="container__app">
@@ -16,6 +20,7 @@ function App() {
             </div>
             <SliderPhoto/>
             <Favourite/>
+
             <Testimonials/>
             <Footer/>
         </>

@@ -8,7 +8,7 @@ import Testimonial from "./Testimonial/Testimonial";
 const Testimonials = () => {
 
     return (
-        <div className='testimonials'>
+        <div className='testimonials' id='testimonials'>
 
 
             <Testimonial
