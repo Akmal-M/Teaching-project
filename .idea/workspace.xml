@@ -11,15 +11,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47f867d0-5527-4a66-b4ca-101ed2ca551e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/Login/LoginPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Login/LoginPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/LoginHeader/HeaderLogin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/LoginHeader/HeaderLogin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firebase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stateProvider.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Testimonials/Testimonials.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Testimonials/Testimonials.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Main/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/Main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/SliderPhoto/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/SliderPhoto/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/state.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +57,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Testimonials/Testimonial" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/LoginPhoneNumber" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,15 +69,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\My PC\Desktop\mother\src\Components\Testimonials\Testimonial" />
-      <recent name="C:\Users\My PC\Desktop\mother\src\Components\BestPupils" />
-      <recent name="C:\Users\My PC\Desktop\mother\src\img\icons" />
-      <recent name="C:\Users\My PC\Desktop\mother\src\Components\SliderPhoto" />
-      <recent name="C:\Users\My PC\Desktop\mother\src\Components\Testimonials" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\My PC\Desktop\mother\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\My PC\Desktop\mother\src\Components\LoginPhoneNumber" />
+      <recent name="C:\Users\My PC\Desktop\mother\src\Components\LoginHeader" />
+      <recent name="C:\Users\My PC\Desktop\mother\src\Components\Login" />
+      <recent name="C:\Users\My PC\Desktop\mother\src\Components\Testimonials\Testimonial" />
+      <recent name="C:\Users\My PC\Desktop\mother\src\Components\BestPupils" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -140,7 +155,45 @@
       <workItem from="1608590934881" duration="1808000" />
       <workItem from="1608592816459" duration="1761000" />
       <workItem from="1608594635074" duration="1778000" />
-      <workItem from="1608596445495" duration="927000" />
+      <workItem from="1608596445495" duration="1701000" />
+      <workItem from="1608599632194" duration="1782000" />
+      <workItem from="1608601442284" duration="1391000" />
+      <workItem from="1608634544796" duration="1594000" />
+      <workItem from="1608636413108" duration="1793000" />
+      <workItem from="1608638259179" duration="684000" />
+      <workItem from="1608639113796" duration="566000" />
+      <workItem from="1608639849862" duration="320000" />
+      <workItem from="1608640195812" duration="1041000" />
+      <workItem from="1608641269214" duration="712000" />
+      <workItem from="1608642106398" duration="669000" />
+      <workItem from="1608647632540" duration="1136000" />
+      <workItem from="1608648797128" duration="99000" />
+      <workItem from="1608648931042" duration="71000" />
+      <workItem from="1608649215805" duration="133000" />
+      <workItem from="1608649374497" duration="43000" />
+      <workItem from="1608649421909" duration="6000" />
+      <workItem from="1608649456005" duration="30000" />
+      <workItem from="1608649596537" duration="31000" />
+      <workItem from="1608649648287" duration="163000" />
+      <workItem from="1608650081146" duration="41000" />
+      <workItem from="1608650164213" duration="405000" />
+      <workItem from="1608650888292" duration="89000" />
+      <workItem from="1608650998836" duration="158000" />
+      <workItem from="1608651181543" duration="891000" />
+      <workItem from="1608652109153" duration="858000" />
+      <workItem from="1608652997526" duration="1765000" />
+      <workItem from="1608654801189" duration="1785000" />
+      <workItem from="1608656615576" duration="307000" />
+      <workItem from="1608656994382" duration="9000" />
+      <workItem from="1608657020335" duration="1344000" />
+      <workItem from="1608658464247" duration="488000" />
+      <workItem from="1608659014540" duration="1192000" />
+      <workItem from="1608660231938" duration="1777000" />
+      <workItem from="1608662042361" duration="1775000" />
+      <workItem from="1608663853596" duration="1837000" />
+      <workItem from="1608665725305" duration="1767000" />
+      <workItem from="1608667554156" duration="1767000" />
+      <workItem from="1608669360080" duration="1838000" />
     </task>
     <servers />
   </component>
@@ -186,6 +239,12 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/App.js</url>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/Components/Main/Main.js</url>
+          <line>28</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,0 +1,131 @@
+.login {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+}
+
+.login__container {
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+    height: fit-content;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
+
+
+.login__logo {
+    margin: 20px auto 20px auto;
+    object-fit: contain;
+    width: 100px;
+}
+
+/*.login__container {*/
+/*    width: 300px;*/
+/*    height: fit-content;*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    border-radius: 5px;*/
+/*    border: 1px solid lightgray;*/
+/*    padding: 20px;*/
+/*}*/
+
+.login__container > h1 {
+    margin-bottom: 20px;
+    color: #7aa5da;
+    font-weight: bold;
+}
+
+.login__container > form > h5 {
+    margin-bottom: 5px;
+    font-size: 20px;
+    color: gray;
+    font-weight: bold;
+}
+
+.login__container > form > input {
+    height: 30px;
+    margin-bottom: 10px;
+    width: 95%;
+    border-radius: 2px;
+    border: 1px solid lightgrey;
+    text-align: center;
+    color: #8e8d8d;
+    font-size: 15px;
+}
+
+
+
+.login__container > p {
+    margin-top: 15px;
+    font-size: 11px;
+    color: #8e8d8d;
+}
+
+.login__signInButton {
+    background: #c7eb6a;
+    border-radius: 7px;
+    width: 98%;
+    height: 30px;
+    border: 1px solid #c0bfbf;
+    margin-top: 10px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.login__signInButton:hover {
+    transition: .7s;
+    background: #7aa5da;
+    color: #fff;
+}
+
+.login__registerButton {
+    border-radius: 7px;
+    width: 98%;
+    height: 30px;
+    border: 1px solid #c0bfbf;
+    margin-top: 10px;
+    background: #7aa5da;
+    color: #fff;
+}
+.login__registerButton:hover {
+    background: #c7eb6a;
+    transition: .7s;
+    color: gray;
+}
+
+@media (min-width: 1040px) {
+    .login {
+        height: 80vh;
+    }
+
+    .login__container {
+        padding: 50px;
+    }
+}
+
+@media (max-width: 650px) {
+
+    .login {
+        height: fit-content;
+        margin: 40px;
+    }
+
+    .login__container {
+        padding: 15px;
+    }
+
+    .login__container > form > input {
+
+    }
+
+}

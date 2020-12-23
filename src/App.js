@@ -1,5 +1,5 @@
 import './App.css';
-import React from "react";
+import React, {useEffect, useState} from "react";
 import Header from "./Components/Header/Header";
 import Main from "./Components/Main/Main";
 import Footer from "./Components/Footer/Footer";
@@ -7,23 +7,53 @@ import Testimonials from "./Components/Testimonials/Testimonials";
 import SliderPhoto from "./Components/SliderPhoto/SliderPhoto";
 import Favourite from "./Components/Favourite/Favourite";
 
-function App() {
+import {
+    Route
+} from 'react-router-dom';
+import LoginPage from "./Components/Login/LoginPage";
+import {useStateValue} from "./stateProvider";
+import {auth} from "./firebase";
 
+const App = () => {
+    
+    const [{}, dispatch] = useStateValue();
 
-
+    useEffect(() => {
+        //will only run once when the app component loads..
+        auth.onAuthStateChanged(authUser => {
+            if(authUser) {
+                dispatch({
+                    type: 'SET_USER',
+                    user: authUser
+                })
+            } else {
+                dispatch({
+                    type: 'SET_USER',
+                    user: null
+                })
+            }
+        })
+    }, [])
 
     return (
         <>
+        <div>  <Route exact path='/'>
             <div className="container__app">
                 <Header/>
                 <Main/>
-            </div>
+                  </div>
             <SliderPhoto/>
             <Favourite/>
-
             <Testimonials/>
             <Footer/>
-        </>
+        </Route>
+        </div>
+            <Route exact path='/login'>
+                <Header/>
+                <LoginPage/>
+                <Footer/>
+            </Route>
+            </>
     );
 }
 

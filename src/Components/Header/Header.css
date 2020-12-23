@@ -1,4 +1,4 @@
-.sidebar {
+.header {
     background: #c7eb6a;
     padding: 1em;
     display: flex;
@@ -6,7 +6,7 @@
 
 }
 
-.sidebar > a {
+.header > a {
     text-decoration: none;
     color: white;
     margin: 0 50px;
@@ -15,21 +15,29 @@
 }
 
 
-
 @media (max-width: 650px) {
-    .sidebar {
+    .header {
         font-size: 20px;
         height: 3vh;
     }
 
-    .sidebar > a {
-        margin: 0 20px;
+    .header > a {
+        margin: 0 7px;
         font-size: 20px;
+    }
+
+    .header__optionLineOne {
+        font-size: 10px;
+    }
+
+    .header__optionLineTwo {
+        font-size: 10px;
+        font-weight: 800;
     }
 
 }
 
-/*@media (min-width: 1040px) {*/
+/**/
 /*    .sidebar {*/
 /*        background: linear-gradient(#867bfb, #b0a7ff, #ffffff);*/
 /*        !*background: #867bfb;*!*/

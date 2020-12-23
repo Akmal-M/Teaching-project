@@ -22,8 +22,12 @@
     color: gray;
 }
 
+.hero .content__repetitor {
+    font-size: 2.4em;
+}
+
 .hero p {
-    font-weight: 500;
+    font-weight: bold;
     line-height: 1.8em;
     color: gray;
     font-size: 20px;
@@ -42,8 +46,21 @@
     cursor: pointer;
 }
 
+.action-btn__active {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    background: #7aa5da;
+    padding: .5em 2em;
+    border-radius: 40px;
+    margin: 1em 0;
+    transition: .3s;
+    cursor: pointer;
+}
+
 .action-btn:hover {
-    background: #b8cb53;
+    background: #7aa5da;
 }
 
 @media (min-width: 1040px) {
@@ -88,7 +105,7 @@
     }
 
     .hero p {
-        font-weight: 500;
+        font-weight: bold;
         color: #98a0ad;
         font-size: 15px;
     }

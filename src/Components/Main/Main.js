@@ -1,8 +1,13 @@
-import React from 'react';
+import React, {useState} from 'react';
 import './Main.css';
 import img from '../../img/hero.jpg';
+import {useStateValue} from "../../stateProvider";
+
 
 const Main = () => {
+
+    const [{user, }] = useStateValue();
+
     return (
         <div className='content__wrapper'>
         <div className='content'>
@@ -10,14 +15,14 @@ const Main = () => {
                     <img src={img} alt=''/>
                     <div className='hero-content'>
                         <h2>RUS TILI </h2>
-                        <h2>REPETITOR</h2>
+                        <h2 className='content__repetitor'>REPETITOR</h2>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                             Consequatur enim illum itaque iure modi, molestiae nulla numquam
                             obcaecati placeat quas, ratione repellendus saepe sequi velit veniam.
                         </p>
-                        <a className='action-btn'>Murojaat</a>
-
+                        {user ? <a href="/" className='action-btn__active'>Logout</a>
+                            : <a href="/login" className='action-btn'>Login</a>}
                     </div>
                 </section>
             <div/>
