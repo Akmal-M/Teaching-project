@@ -13,7 +13,9 @@
     <list default="true" id="47f867d0-5527-4a66-b4ca-101ed2ca551e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Main/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/Main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/hero.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/hero.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,15 +50,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\My PC\Desktop\mother\src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\My PC\Desktop\mother\src\img" />
       <recent name="C:\Users\My PC\Desktop\mother\src\Components\LoginPhoneNumber" />
       <recent name="C:\Users\My PC\Desktop\mother\src\Components\LoginHeader" />
       <recent name="C:\Users\My PC\Desktop\mother\src\Components\Login" />
       <recent name="C:\Users\My PC\Desktop\mother\src\Components\Testimonials\Testimonial" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\My PC\Desktop\mother\src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -184,7 +186,7 @@
       <workItem from="1608740902708" duration="1779000" />
       <workItem from="1608742717999" duration="1789000" />
       <workItem from="1608744531243" duration="1735000" />
-      <workItem from="1608746383845" duration="40000" />
+      <workItem from="1608746383845" duration="1476000" />
     </task>
     <servers />
   </component>

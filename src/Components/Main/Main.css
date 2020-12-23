@@ -23,7 +23,7 @@
 }
 
 .hero .content__repetitor {
-    font-size: 2.4em;
+    font-size: 2.7em;
 }
 
 .hero p {
@@ -75,11 +75,8 @@
         float: right;
     }
 
-    .hero h2 {
-        font-size: 3em;
-        font-weight: bold;
-        color: #a3a0a0;
-    }
+
+
 
     .hero p {
         width: 75%;
@@ -99,7 +96,9 @@
         font-weight: bold;
         color: #a3a0a0;
     }
-
+    .hero .content__repetitor {
+        font-size: 1.6em;
+    }
     .hero {
         max-width: 960px;
         text-align: center;

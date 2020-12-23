@@ -21,8 +21,8 @@ const Main = () => {
                 <section className='hero'>
                     <img src={img} alt=''/>
                     <div className='hero-content'>
-                        <h2>RUS TILI </h2>
-                        <h2 className='content__repetitor'>REPETITOR</h2>
+                        <h2>ENGLISH </h2>
+                        <h2 className='content__repetitor'>Teacher</h2>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                             Consequatur enim illum itaque iure modi, molestiae nulla numquam
