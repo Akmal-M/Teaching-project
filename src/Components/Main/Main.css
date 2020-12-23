@@ -19,7 +19,7 @@
 .hero h2 {
     font-size: 3em;
     font-weight: bold;
-    color: gray;
+    color: #a3a0a0;
 }
 
 .hero .content__repetitor {
@@ -29,7 +29,7 @@
 .hero p {
     font-weight: bold;
     line-height: 1.8em;
-    color: gray;
+    color: #a3a0a0;
     font-size: 20px;
 }
 
@@ -38,7 +38,7 @@
     text-decoration: none;
     color: #fff;
     font-weight: 500;
-    background: #c7eb6a;
+    background: #748ad5;
     padding: .5em 2em;
     border-radius: 40px;
     margin: 1em 0;
@@ -51,7 +51,8 @@
     text-decoration: none;
     color: #fff;
     font-weight: 500;
-    background: #7aa5da;
+    /*background: #7aa5da;*/
+    background: #c4d9cc;
     padding: .5em 2em;
     border-radius: 40px;
     margin: 1em 0;
@@ -60,7 +61,7 @@
 }
 
 .action-btn:hover {
-    background: #7aa5da;
+    background: #c4d9cc;
 }
 
 @media (min-width: 1040px) {
@@ -77,7 +78,7 @@
     .hero h2 {
         font-size: 3em;
         font-weight: bold;
-        color: #657386;
+        color: #a3a0a0;
     }
 
     .hero p {
@@ -96,7 +97,7 @@
       .hero h2 {
         font-size: 1.7em;
         font-weight: bold;
-        color: #657386;
+        color: #a3a0a0;
     }
 
     .hero {
@@ -106,7 +107,7 @@
 
     .hero p {
         font-weight: bold;
-        color: #98a0ad;
+        color: #a3a0a0;
         font-size: 15px;
     }
 

@@ -19,9 +19,6 @@
 }
 
 @media (max-width: 650px) {
-    /*.header {*/
-    /*    height: 4vh;*/
-    /*}*/
 
     .header > div >.header__option {
 

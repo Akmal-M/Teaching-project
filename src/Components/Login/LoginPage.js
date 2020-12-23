@@ -8,12 +8,11 @@ const Login = () => {
     const history = useHistory();
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
-    const [name, setName] = useState('');
 
     const signIn = e => {
         e.preventDefault();
         auth
-            .signInWithEmailAndPassword(email, password)
+            .signInWithEmailAndPassword(email, password )
             .then(auth => {
                 history.push('/')
             })
@@ -44,12 +43,6 @@ const Login = () => {
             <div className='login__container'>
                 <h1>Login</h1>
                 <form action="">
-
-                    <h5>Ism</h5>
-                    <input type="text" value={name}
-                           onChange={e => setName(e.target.value)}
-                    />
-
                     <h5>E-mail</h5>
                     <input type="text" value={email}
                            onChange={e => setEmail(e.target.value)}

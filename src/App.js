@@ -26,9 +26,19 @@ const App = () => {
                     type: 'SET_USER',
                     user: authUser
                 })
+                dispatch({
+                    type: 'SET_NAME',
+                    name: authUser
+                })
+
             } else {
                 dispatch({
                     type: 'SET_USER',
+                    user: null
+                })
+
+                dispatch({
+                    type: 'SET_NAME',
                     user: null
                 })
             }
