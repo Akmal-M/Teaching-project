@@ -1,20 +1,28 @@
 import React from 'react';
 import './Testimonial.css';
+import data from '../../../data';
 
-const Testimonial = ({img, name, rank, text}) => {
+const Testimonial = () => {
     return (
-        <div>
-            <div className='testimonials'>
-                <div className='test__card'>
-                    <img src={img} alt=''/>
-                    <h2 className='test__name'>{name}</h2>
-                    <h3 className='test__rank'>{rank}</h3>
-                    <p className='test__text'>
-                        {text}
-                    </p>
-                </div>
-            </div>
+
+        <div className='testimonials'>
+            {
+                data.testimonials.map((testimonial) =>
+                    <div className='testimonial'>
+                        <div className='test__card'>
+                            <img  style={{width: '200px'}} src={testimonial.img} alt=''/>
+                            <h2 className='test__name'>{testimonial.name}</h2>
+                            <h3 className='test__rank'>{testimonial.rank}</h3>
+                            <p className='test__text'>
+                                {testimonial.text}
+                            </p>
+                        </div>
+                    </div>
+                )
+            }
+
         </div>
+
     );
 };
 

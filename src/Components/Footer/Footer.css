@@ -1,5 +1,5 @@
 .footer {
-  background-color: #bed9cc;
+  background-color: #c7eb6a;
     padding: 1em;
     grid-template-columns:repeat(auto-fit, minmax(250px, 1fr)) ;
     display: grid;
@@ -23,7 +23,7 @@
     height: 2vh;
     text-align: center;
     font-size: 9px;
-    background-color: #c4d9cc;
+    background-color: #c7eb6a;
     color: #fff;
 }
 

@@ -1,3 +1,8 @@
+.testimonials {
+    padding: 10px;
+    display: grid;
+    grid-template-columns:repeat(auto-fit, minmax(250px, 1fr)) ;
+}
 
 .test__card {
     text-align: center;
@@ -13,7 +18,7 @@
     margin: 15px;
 }
 
-.test__card > img {
+.testimonials > .testimonial > .test__card > img {
     border-radius: 50%;
     width: 200px;
 }

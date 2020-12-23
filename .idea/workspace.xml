@@ -11,11 +11,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47f867d0-5527-4a66-b4ca-101ed2ca551e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/data.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Main/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/Main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/SliderPhoto/SliderPhoto.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/SliderPhoto/SliderPhoto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Testimonials/Testimonial/Testimonial.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Testimonials/Testimonial/Testimonial.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Testimonials/Testimonial/Testimonial.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Testimonials/Testimonial/Testimonial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Testimonials/Testimonials.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Testimonials/Testimonials.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/hero.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/hero.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slidertwo/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/sliderImage/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slidertwo/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/sliderImage/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slidertwo/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/sliderImage/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slidertwo/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/sliderImage/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slidertwo/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/sliderImage/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slidertwo/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/sliderImage/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slidertwo/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/sliderImage/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slidertwo/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/sliderImage/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slidertwo/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/sliderImage/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slidertwo/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/sliderImage/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/test/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/test/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/test/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/test/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/test/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/5.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +63,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/LoginPhoneNumber" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,11 +79,11 @@
       <recent name="C:\Users\My PC\Desktop\mother\src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\My PC\Desktop\mother\src\img" />
       <recent name="C:\Users\My PC\Desktop\mother\src\Components\LoginPhoneNumber" />
       <recent name="C:\Users\My PC\Desktop\mother\src\Components\LoginHeader" />
       <recent name="C:\Users\My PC\Desktop\mother\src\Components\Login" />
       <recent name="C:\Users\My PC\Desktop\mother\src\Components\Testimonials\Testimonial" />
-      <recent name="C:\Users\My PC\Desktop\mother\src\Components\BestPupils" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -180,7 +204,13 @@
       <workItem from="1608705418426" duration="1764000" />
       <workItem from="1608721702210" duration="1767000" />
       <workItem from="1608731211527" duration="1746000" />
-      <workItem from="1608733050043" duration="1086000" />
+      <workItem from="1608733050043" duration="2369000" />
+      <workItem from="1608735464708" duration="1784000" />
+      <workItem from="1608737275064" duration="1222000" />
+      <workItem from="1608739088091" duration="1787000" />
+      <workItem from="1608740902708" duration="1779000" />
+      <workItem from="1608742717999" duration="1789000" />
+      <workItem from="1608744531243" duration="1345000" />
     </task>
     <servers />
   </component>
@@ -203,10 +233,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="473" y="363" key="#ESLint" timestamp="1608519233937">
+    <state x="473" y="363" key="#ESLint" timestamp="1608739130241">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="473" y="363" key="#ESLint/0.0.1280.984@0.0.1280.984" timestamp="1608519233937" />
+    <state x="473" y="363" key="#ESLint/0.0.1280.984@0.0.1280.984" timestamp="1608739130241" />
     <state x="311" y="274" key="#Notifications" timestamp="1608547461113">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -235,7 +265,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/Components/Header/Header.js</url>
           <line>14</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>

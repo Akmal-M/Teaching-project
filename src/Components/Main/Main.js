@@ -35,7 +35,7 @@ const Main = () => {
             <div/>
         </div>
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" >
-                <path fill="#c4d9cc" fillOpacity="1"
+                <path fill="#c7eb6a" fillOpacity="1"
                       d="M0,32L48,58.7C96,85,192,139,288,170.7C384,203,
                          480,213,576,213.3C672,213,768,203,864,186.7C960,171,
                           1056,149,1152,128C1248,107,1344,85,1392,74.7L1440,64L1440,

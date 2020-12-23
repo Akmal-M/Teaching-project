@@ -3,7 +3,6 @@ import React, {useEffect, useState} from "react";
 import Header from "./Components/Header/Header";
 import Main from "./Components/Main/Main";
 import Footer from "./Components/Footer/Footer";
-import Testimonials from "./Components/Testimonials/Testimonials";
 import SliderPhoto from "./Components/SliderPhoto/SliderPhoto";
 import Favourite from "./Components/Favourite/Favourite";
 
@@ -13,6 +12,7 @@ import {
 import LoginPage from "./Components/Login/LoginPage";
 import {useStateValue} from "./stateProvider";
 import {auth} from "./firebase";
+import Testimonial from "./Components/Testimonials/Testimonial/Testimonial";
 
 const App = () => {
     
@@ -26,10 +26,7 @@ const App = () => {
                     type: 'SET_USER',
                     user: authUser
                 })
-                dispatch({
-                    type: 'SET_NAME',
-                    name: authUser
-                })
+
 
             } else {
                 dispatch({
@@ -37,10 +34,6 @@ const App = () => {
                     user: null
                 })
 
-                dispatch({
-                    type: 'SET_NAME',
-                    user: null
-                })
             }
         })
     }, [])
@@ -54,7 +47,7 @@ const App = () => {
                   </div>
             <SliderPhoto/>
             <Favourite/>
-            <Testimonials/>
+            <Testimonial/>
             <Footer/>
         </Route>
         </div>
