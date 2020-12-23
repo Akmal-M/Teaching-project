@@ -16,7 +16,7 @@ const Header = () => {
                            target="_blank">Online</a> :
                     <a href='' style={{color: '#a3a0a0'}}>Online</a>}
                 {user ? <a href='https://t.me/joinchat/MTUE8xndl7pJ8XLGnJnEMg' target="_blank">Chat</a> :
-                    <a href='' style={{color: '#fce9d5'}}>Chat</a> }
+                    <a href='' style={{color: '#a3a0a0'}}>Chat</a> }
                 <Link to="testimonials" smooth={true} duration={1000}>Fikrlar</Link>
                 <Link to="contact" smooth={true} duration={1000}>Manzil</Link>
                 <HeaderLogin/>
