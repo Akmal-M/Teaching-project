@@ -23,21 +23,23 @@
 }
 
 
-.login__logo {
-    margin: 20px auto 20px auto;
-    object-fit: contain;
-    width: 100px;
+/*.login__logo {*/
+/*    margin: 20px auto 20px auto;*/
+/*    object-fit: contain;*/
+/*    width: 100px;*/
+/*}*/
+
+.login a > h1{
+    margin: 25px 0;
+}
+.login  a {
+    text-decoration: none;
+    color: #c7eb6a;
+    cursor: pointer;
+
 }
 
-/*.login__container {*/
-/*    width: 300px;*/
-/*    height: fit-content;*/
-/*    display: flex;*/
-/*    flex-direction: column;*/
-/*    border-radius: 5px;*/
-/*    border: 1px solid lightgray;*/
-/*    padding: 20px;*/
-/*}*/
+
 
 .login__container > h1 {
     margin-bottom: 20px;
@@ -126,6 +128,9 @@
 
     .login__container > form > input {
 
+    }
+    .login a > h1{
+        margin: 15px 0;
     }
 
 }

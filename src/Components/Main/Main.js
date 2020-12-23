@@ -2,11 +2,18 @@ import React, {useState} from 'react';
 import './Main.css';
 import img from '../../img/hero.jpg';
 import {useStateValue} from "../../stateProvider";
+import {auth} from "../../firebase";
 
 
 const Main = () => {
 
     const [{user, }] = useStateValue();
+
+    const handleAuthentication = () => {
+        if (user) {
+            auth.signOut();
+        }
+    }
 
     return (
         <div className='content__wrapper'>
@@ -21,7 +28,7 @@ const Main = () => {
                             Consequatur enim illum itaque iure modi, molestiae nulla numquam
                             obcaecati placeat quas, ratione repellendus saepe sequi velit veniam.
                         </p>
-                        {user ? <a href="/" className='action-btn__active'>Logout</a>
+                        {user ? <a href="/" className='action-btn__active' onClick={handleAuthentication}>Logout</a>
                             : <a href="/login" className='action-btn'>Login</a>}
                     </div>
                 </section>
