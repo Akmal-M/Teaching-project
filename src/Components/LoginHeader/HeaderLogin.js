@@ -1,4 +1,4 @@
-import React, {useEffect} from 'react';
+import React from 'react';
 import {BrowserRouter as Link} from "react-router-dom";
 import {auth} from "../../firebase";
 import './HeaderLogin.css';

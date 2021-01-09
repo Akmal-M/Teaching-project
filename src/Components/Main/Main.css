@@ -13,7 +13,7 @@
 .hero img {
     width: 200px;
     border-radius: 50%;
-    margin-top: 3em;
+    padding-top: 10px;
 }
 
 .hero h2 {
@@ -38,7 +38,7 @@
     text-decoration: none;
     color: #fff;
     font-weight: 500;
-    background: #748ad5;
+    background: #7aa5da;
     padding: .5em 2em;
     border-radius: 40px;
     margin: 1em 0;
@@ -51,8 +51,7 @@
     text-decoration: none;
     color: #fff;
     font-weight: 500;
-    /*background: #7aa5da;*/
-    background: #748ad5;
+    background: #c7eb6a;
     padding: .5em 2em;
     border-radius: 40px;
     margin: 1em 0;

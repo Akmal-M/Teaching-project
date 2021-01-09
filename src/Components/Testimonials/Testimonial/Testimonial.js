@@ -7,8 +7,8 @@ const Testimonial = () => {
 
         <div className='testimonials'>
             {
-                data.testimonials.map((testimonial) =>
-                    <div className='testimonial'>
+                data.testimonials.map((testimonial =>
+                    <div key={testimonial.text} className='testimonial'>
                         <div className='test__card'>
                             <img  style={{width: '200px'}} src={testimonial.img} alt=''/>
                             <h2 className='test__name'>{testimonial.name}</h2>
@@ -18,6 +18,7 @@ const Testimonial = () => {
                             </p>
                         </div>
                     </div>
+                    )
                 )
             }
 

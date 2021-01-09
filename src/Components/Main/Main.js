@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import './Main.css';
 import img from '../../img/hero.jpg';
 import {useStateValue} from "../../stateProvider";

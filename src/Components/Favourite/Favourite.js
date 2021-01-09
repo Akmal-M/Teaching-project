@@ -3,17 +3,20 @@ import './Favourtite.css';
 
 const Favourite = () => {
     return (
-        <div className='best__pupils'>
-            <h1>Jackie Doe</h1>
-            <h1>Jane Doe</h1>
-            <h1>John Doe</h1>
-            <h1>Max Doe</h1>
-            <h1>Rain Smith</h1>
-            <h1>Snow Smith</h1>
-            <h1>White Smith</h1>
-            <h1>Black Smith</h1>
-            <h1>Yellow Smith</h1>
-            <h1>Red Smith</h1>
+        <div className='favourite'>
+            <div className='best__header'>
+                <h1>My successful students</h1>
+            </div>
+            <div className='best__pupils'>
+                <h1>Rea Rigby</h1>
+                <h1>Jane Smith</h1>
+                <h1>Kyal Kline</h1>
+                <h1>Patrick Bailey</h1>
+                <h1>April Finney</h1>
+                <h1>Hetty Marks</h1>
+                <h1>Nick Wood</h1>
+                <h1>Roman Mccarty</h1>
+            </div>
         </div>
     );
 };

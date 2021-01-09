@@ -13,8 +13,19 @@
     <list default="true" id="47f867d0-5527-4a66-b4ca-101ed2ca551e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Favourite/Favourite.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Favourite/Favourite.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Favourite/Favourtite.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Favourite/Favourtite.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/LoginHeader/HeaderLogin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/LoginHeader/HeaderLogin.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Main/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/Main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Testimonials/Testimonial/Testimonial.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Testimonials/Testimonial/Testimonial.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Testimonials/Testimonial/Testimonial.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Testimonials/Testimonial/Testimonial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/img/hero.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/hero.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -186,7 +197,10 @@
       <workItem from="1608740902708" duration="1779000" />
       <workItem from="1608742717999" duration="1789000" />
       <workItem from="1608744531243" duration="1735000" />
-      <workItem from="1608746383845" duration="1476000" />
+      <workItem from="1608746383845" duration="1913000" />
+      <workItem from="1610192075810" duration="989000" />
+      <workItem from="1610193129008" duration="1830000" />
+      <workItem from="1610195075994" duration="1257000" />
     </task>
     <servers />
   </component>
@@ -237,11 +251,6 @@
           <url>file://$PROJECT_DIR$/src/Components/Main/Main.js</url>
           <line>35</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/Components/Header/Header.js</url>
-          <line>14</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

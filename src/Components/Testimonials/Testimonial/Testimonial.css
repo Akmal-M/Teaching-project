@@ -24,19 +24,16 @@
 }
 
 .test__name {
-    color: #867bfb;
-    padding: 5px;
+    color: #c7eb6a;
     margin: 5px;
 }
 
 .test__rank {
-    color: #67c261;
-    padding: 5px;
-    margin: 5px;
+    color: #c7eb6a;
 }
 
 .test__text {
-    color: #373d46;
+    color: #7aa5da;
     font-size: 20px;
     padding: 0 15px;
     margin: 10px;

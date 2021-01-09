@@ -9,23 +9,23 @@ const Footer = () => {
         <>
             <div className='footer' id='contact'>
                 <div className='footer__address'>
-                    <h4>Samarqand viloyati,
-                        <br/> Kattaqo'rg'on tum.
-                        <br/>Payshanba sh.</h4>
+                    <h4>Tashkent,
+                        <br/> No name str.
+                        <br/>house 77/7</h4>
                 </div>
                 <div className='footer__tel'>
                     Telefon:
-                    <br/><a href="tel:+998913139211">+99 891 313 92 11</a>
+                    <br/><a href="tel:+998913139211">+99 891 777 77 77</a>
                 </div>
                 <div className='footer__social'>
                     <p>
-                        <a href="https://t.me/amazingrepetitor" target="_blank" className='footer__socialIco'>
+                        <a href="https://t.me/amazingrepetitor" rel='noreferrer' target="_blank" className='footer__socialIco'>
                         <img alt="telegram" src={telegram} />
                     </a>
                     </p>
 
                     <p>
-                        <a href="https://instagram.com/russkii140" target="_blank" className='footer__socialIco'>
+                        <a href="https://instagram.com/russkii140" rel='noreferrer' target="_blank" className='footer__socialIco'>
 
                             <img  alt="instagram"  src={instagram} />
                         </a>
@@ -33,7 +33,7 @@ const Footer = () => {
 
                     <p>
                        
-                        <a href="https://facebook.com/profile.php?id=100059904920338 " target="_blank" className='footer__socialIco'>
+                        <a href="https://facebook.com/profile.php?id=100059904920338 " rel='noreferrer' target="_blank" className='footer__socialIco'>
                             <img alt="facebook" src={facebook} />
                         </a>
                     </p>
