@@ -11,7 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47f867d0-5527-4a66-b4ca-101ed2ca551e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +188,9 @@
       <workItem from="1610193129008" duration="1830000" />
       <workItem from="1610195075994" duration="2385000" />
       <workItem from="1610197509028" duration="1586000" />
-      <workItem from="1610199325169" duration="1253000" />
+      <workItem from="1610199325169" duration="1744000" />
+      <workItem from="1610201256437" duration="232000" />
+      <workItem from="1610209357058" duration="209000" />
     </task>
     <servers />
   </component>
