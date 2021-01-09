@@ -2,6 +2,7 @@
     padding: 10px;
     display: grid;
     grid-template-columns:repeat(auto-fit, minmax(250px, 1fr)) ;
+    margin: 7vh 0 7vh 0;
 }
 
 .test__card {
@@ -15,12 +16,12 @@
             0 22.3px 17.9px rgba(0, 0, 0, 0.072),
             0 41.8px 33.4px rgba(0, 0, 0, 0.086),
             0 100px 80px rgba(0, 0, 0, 0.12);
-    margin: 15px;
+    margin: 10px;
 }
 
 .testimonials > .testimonial > .test__card > img {
     border-radius: 50%;
-    width: 200px;
+
 }
 
 .test__name {
@@ -34,7 +35,7 @@
 
 .test__text {
     color: #7aa5da;
-    font-size: 20px;
+    font-size: 19px;
     padding: 0 15px;
     margin: 10px;
 }

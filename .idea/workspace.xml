@@ -11,8 +11,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47f867d0-5527-4a66-b4ca-101ed2ca551e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Favourite/Favourtite.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Favourite/Favourtite.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/SliderPhoto/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/SliderPhoto/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Testimonials/Testimonial/Testimonial.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Testimonial/Testimonial.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Testimonials/Testimonial/Testimonial.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Testimonial/Testimonial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firebase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/firebase.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +200,11 @@
       <workItem from="1610197509028" duration="1586000" />
       <workItem from="1610199325169" duration="1744000" />
       <workItem from="1610201256437" duration="232000" />
-      <workItem from="1610209357058" duration="209000" />
+      <workItem from="1610209357058" duration="1407000" />
+      <workItem from="1610211526058" duration="399000" />
+      <workItem from="1610214517231" duration="870000" />
+      <workItem from="1610215439033" duration="1764000" />
+      <workItem from="1610217243785" duration="1471000" />
     </task>
     <servers />
   </component>

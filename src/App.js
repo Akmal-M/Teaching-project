@@ -12,7 +12,7 @@ import {
 import LoginPage from "./Components/Login/LoginPage";
 import {useStateValue} from "./stateProvider";
 import {auth} from "./firebase";
-import Testimonial from "./Components/Testimonials/Testimonial/Testimonial";
+import Testimonial from "./Components/Testimonial/Testimonial";
 
 const App = () => {
     
