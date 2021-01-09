@@ -1,8 +1,7 @@
 import React from 'react';
 import './Footer.css';
-import facebook from '../../img/assets/10524131591559031671-128.png';
-import instagram from '../../img/assets/19042250241579774616-128.png';
-import telegram from '../../img/assets/21399810441555589926-128.png';
+import {FaFacebook, FaInstagram, FaTelegram} from "react-icons/all";
+
 
 const Footer = () => {
     return (
@@ -20,25 +19,21 @@ const Footer = () => {
                 <div className='footer__social'>
                     <p>
                         <a href="https://t.me/amazingrepetitor" rel='noreferrer' target="_blank" className='footer__socialIco'>
-                        <img alt="telegram" src={telegram} />
+                        <FaTelegram />
                     </a>
                     </p>
 
                     <p>
                         <a href="https://instagram.com/russkii140" rel='noreferrer' target="_blank" className='footer__socialIco'>
-
-                            <img  alt="instagram"  src={instagram} />
+                           <FaInstagram/>
                         </a>
                     </p>
 
                     <p>
-                       
                         <a href="https://facebook.com/profile.php?id=100059904920338 " rel='noreferrer' target="_blank" className='footer__socialIco'>
-                            <img alt="facebook" src={facebook} />
+                            <FaFacebook />
                         </a>
                     </p>
-
-
                 </div>
             </div>
             <div className='developer'>
